@@ -4,7 +4,7 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Blog"
+  name = "Posts"
   url = "/post"
   weight = 10
   
@@ -14,7 +14,7 @@
   weight = 20
   
 [[main]]
-  name = "Portfolio"
+  name = "Cases"
   url = "/portfolio"
   weight = 30
   
