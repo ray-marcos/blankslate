@@ -66,3 +66,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   category = "categories"
   publication_type = "publication_types"
   author = "authors"
+  
+  # angledQuotes
+default: false
+Blackfriday flag: HTML_SMARTYPANTS_ANGLED_QUOTES
+Purpose: true enables smart, angled double quotes. Example: “Hugo” renders to «Hugo» instead of “Hugo”.
